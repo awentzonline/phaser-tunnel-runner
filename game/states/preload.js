@@ -12,6 +12,7 @@ Preload.prototype = {
 
     this.load.onLoadComplete.addOnce(this.onLoadComplete, this);
     this.load.setPreloadSprite(this.asset);
+    this.load.image('veinyWalls', 'assets/veinyWalls.png');
 
   },
   create: function() {

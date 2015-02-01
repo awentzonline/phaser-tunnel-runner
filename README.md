@@ -2,6 +2,7 @@ phaser-tunnel-runner
 ====================
 
 A game where you run in a tunnel. Made with [Phaser](http://phaser.io/).
+Adapted from the [phaser tunnel example](http://examples.phaser.io/_site/view_full.html?d=filters&f=tunnel.js&t=tunnel).
 
 Usage
 -----
