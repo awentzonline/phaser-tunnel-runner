@@ -2,7 +2,7 @@ base-phaser-game
 ================
 
 A skeletal starting point for [Phaser](http://phaser.io/) games.
-Kicked off with [generator-angular-official](https://github.com/codevinsky/generator-phaser-official).
+Kicked off with [generator-phaser-official](https://github.com/codevinsky/generator-phaser-official).
 
 Usage
 -----
